@@ -13,7 +13,7 @@ This is a  e-commerce website, where users can log in or sign up, explore produc
 9) Beautifully designed footer.<br/><br/>
 
 #HomePage and Navbar<br/>
-![Screenshot (1847)](https://user-images.githubusercontent.com/103936619/216823302-55e8077a-45a6-4bc4-9a17-de01830a6347.png)<br/>
+![Screenshot (1847)](https://user-images.githubusercontent.com/103936619/216823302-55e8077a-45a6-4bc4-9a17-de01830a6347.png)<br/><br/>
 ![Screenshot (1846)](https://user-images.githubusercontent.com/103936619/216823328-6015dfb9-5e5e-42d6-b0d2-339a8f98b2d9.png)<br/><br/>
 #SignUp Page<br/>
 ![Screenshot (1848)](https://user-images.githubusercontent.com/103936619/216823422-8af33391-84c6-47e5-8120-0d689c1e642a.png)<br/><br/>
@@ -32,7 +32,7 @@ This is a  e-commerce website, where users can log in or sign up, explore produc
 #Fashion Page<br/>
 ![Screenshot (1857)](https://user-images.githubusercontent.com/103936619/216823694-2c567669-4b64-494b-a775-c661702e38f3.png)<br/><br/>
 #News Page<br/>
-![Screenshot (1855)](https://user-images.githubusercontent.com/103936619/216823729-1bd81bff-eba5-495f-9bda-172da016caad.png)<br/><br/>
+![Screenshot (1856)](https://user-images.githubusercontent.com/103936619/216823932-4069afe0-71d2-4aa3-92fb-98d7391ac942.png)<br/><br/>
 #About Page <br/>
 ![Screenshot (1854)](https://user-images.githubusercontent.com/103936619/216823770-69f35a2d-91cf-49bf-a5df-085d8cf92115.png)<br/><br/>
 #Contact Page<br/>
